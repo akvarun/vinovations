@@ -19,12 +19,12 @@ export default function Home() {
         </p>
       </main>
       <footer className="mt-10 text-center text-gray-600 dark:text-gray-400 space-x-6">
-        <a href="mailto:akvarun@icloud.com" className="hover:underline">
-          Varun Aiyaswamy Kannan
-        </a>
         <span>|</span>
         <a href="mailto:rbharathwaj2003@gmail.com" className="hover:underline">
           Bharathwaj Ramanathan
+        </a>
+        <a href="mailto:akvarun@icloud.com" className="hover:underline">
+          Varun Aiyaswamy Kannan
         </a>
       </footer>
     </div>
