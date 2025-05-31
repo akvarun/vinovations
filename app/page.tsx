@@ -30,11 +30,11 @@ export default function Home() {
       <footer className="mt-16 text-center text-gray-600 dark:text-gray-400 space-x-6 text-sm sm:text-base">
         <span className="hidden sm:inline">|</span>
         <a href="mailto:rbharathwaj2003@gmail.com" className="hover:underline transition-colors duration-300">
-          Bharathwaj Ramanathan
+          Bharathwaj
         </a>
         <span className="hidden sm:inline">|</span>
         <a href="mailto:akvarun@icloud.com" className="hover:underline transition-colors duration-300">
-          Varun Aiyaswamy Kannan
+          Varun
         </a>
         <span className="hidden sm:inline">|</span>
       </footer>
