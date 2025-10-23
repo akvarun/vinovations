@@ -18,13 +18,13 @@ export const testimonials = [
   },
   {
     testimony:
-      "We’re bridging material science and data-driven design to build lightweight, durable composite systems that can handle the most demanding environments — from research labs to real-world applications.",
+      "We’re bridging material science and data-driven design to build lightweight, durable composite systems that can handle the most demanding environments from research labs to real-world applications.",
     person: 'Bharathwaj Ramanathan – Product & Strategy',
     avatar: bharathwaj_ramanathan,
   },
   {
     testimony:
-      "Our goal is to bring cutting-edge engineering and digital innovation together — integrating software, analytics, and design workflows to accelerate technology adoption across industries.",
+      "Our goal is to bring cutting-edge engineering and digital innovation together integrating software, analytics, and design workflows to accelerate technology adoption across industries.",
     person: 'Varun Aiyaswamy Kannan – Brand & Software Systems',
     avatar: varun_aiyaswamy,
   },
