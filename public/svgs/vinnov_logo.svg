@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" fill="none">
+  <!-- Circle -->
+  <circle cx="20" cy="20" r="10" fill="white"/>
+
+  <!-- Down-left Arrow (↙️ opposite diagonal) -->
+  <path d="M26 26L14 14M14 14V24M14 14H24" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text -->
+  <text x="40" y="25" fill="white" font-family="Inter, sans-serif" font-weight="600" font-size="18">
+    vinnovations
+  </text>
+</svg>
